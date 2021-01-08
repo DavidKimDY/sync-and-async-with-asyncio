@@ -56,7 +56,7 @@ async def async_main():
 
 
 
-# 3. 동기적 함수를 비동기 방식으로 동작시키는 경
+# 3. 동기적 함수를 비동기 방식으로 동작시키는 경우
 
 async def sync_to_async_main():
     start = time.time()
